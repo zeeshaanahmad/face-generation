@@ -60,3 +60,8 @@ _fig_ 3
 ### Generated Faces
 _fig_ 4
 ![gen_faces_conv_dim_256_epoch_50.png](./assets/gen_faces_conv_dim_256_epoch_50.png)
+
+
+Results generated as output of this model have been saved as pickle `.pkl` files.
+
+_Note: `workspace_utils.py` was included to keep the Udacity workspace from dying during training process._
